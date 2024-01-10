@@ -3,4 +3,4 @@
 </div>
 
 - 🎓 Graduated with a Master's degree from <a href="https://cam.kumoh.ac.kr/cam/index.do">KIT Computer Engineering </a>
-- 📫 How to reach me: sinabero3271@naver.com
+- 📫 How to reach me: sinabero3271@gmail.com
